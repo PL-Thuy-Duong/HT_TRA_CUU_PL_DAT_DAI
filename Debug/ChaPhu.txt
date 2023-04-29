@@ -1,0 +1,96 @@
+bán: bán
+buôn: bán
+chuyển nhượng: bán
+mua: bán.mua
+bồi thường: bồi thường.đền bù
+chi trả: bồi thường
+đền bù: bồi thường.đền bù
+cho phép: cho phép
+được phép: cho phép
+được quyền: cho phép
+chuyển: chuyển.chuyển nhượng
+chuyển nhượng quyền sử dụng: chuyển nhượng
+nhượng quyền: chuyển nhượng
+nhường quyền: chuyển nhượng
+chuyển đổi: chuyển đổi
+thay đổi: chuyển đổi
+cây trồng: cây trồng
+gắn liền: gắn liền
+gắn: gắn liền
+gắn với: gắn liền
+gắn chung: gắn liền
+dính liền: gắn liền
+dính: gắn liền
+hồ sơ: hồ sơ
+giấy tờ: hồ sơ
+chứng từ: hồ sơ
+hỗ trợ: hỗ trợ
+chu cấp: hỗ trợ
+không được: không được
+không cho: không được
+không giấy phép: không giấy phép
+trái phép: không giấy phép
+kế hoạch: kế hoạch
+chiến lược: kế hoạch
+hoạch định: kế hoạch
+là gì: là gì
+là như thế nào: là gì
+là thế nào: là gì
+là sao: là gì
+khái niệm: là gì.là gì
+như thế nào là: là gì
+thế nào là: là gì
+định nghĩa: là gì
+được hiểu là: là gì
+nguyên tắc: nguyên tắc
+quy tắc: nguyên tắc
+quy định: nguyên tắc
+phải xin: phải xin
+bắt buộc xin: phải xin
+nhất định xin: phải xin
+quy hoạch: quy hoạch
+quyết định: quyết định
+nghị quyết: quyết định
+sử dụng: sử dụng
+canh tác: sử dụng
+thuê: thuê
+mướn: thuê
+thời hạn: thời hạn
+kỳ hạn: thời hạn
+kì hạn: thời hạn
+thời gian: thời hạn
+thủ tục: thủ tục
+các bước: thủ tục
+trình tự: thủ tục
+quy trình: thủ tục
+quá trình: thủ tục
+trường hợp: trường hợp
+tài sản: tài sản
+vật nuôi: vật nuôi
+thú nuôi: vật nuôi
+điều kiện: điều kiện
+điều khoản: điều kiện
+có bao nhiêu: có bao nhiêu
+hành vi: hành vi
+hành động: hành vi
+nghiêm cấm: nghiêm cấm
+cấm: nghiêm cấm
+cấm làm: nghiêm cấm
+luật cấm: nghiêm cấm
+thẩm quyền: thẩm quyền
+quyền lực: thẩm quyền
+có quyền: thẩm quyền
+nắm quyền: thẩm quyền
+giữ quyền: thẩm quyền
+đứng ra giải quyết: thẩm quyền
+cơ quan: cơ quan
+bộ phận: cơ quan
+đơn vị: cơ quan
+ai: cơ quan
+mua đất: mua đất
+mua miếng đất: mua đất
+mua lô đất: mua đất
+mua nhà: mua nhà
+mua căn hộ: mua nhà
+mua chung cư: mua nhà
+mua biệt thự: mua nhà

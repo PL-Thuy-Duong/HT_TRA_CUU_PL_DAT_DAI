@@ -1,0 +1,35 @@
+bán: 7.27.36.38.44.45
+bồi thường: 4.8.15.19.21
+cho phép: 20
+chuyển: 9.20.27.31.32
+chuyển nhượng: 9.20.27.31.32
+chuyển đổi: 20
+cây trồng: 21
+gắn liền: 6.7
+hồ sơ: 2
+hỗ trợ: 15
+không được: 
+không giấy phép: 
+kế hoạch: 3
+là gì: 3.7.16.17.18.23.29.33.34.40.46.47
+mua: 7.44.45
+nguyên tắc: 1.3.13.15.24.25
+phải xin: 5
+quy hoạch: 3.33.34
+quyết định: 12.13
+sử dụng: 3.6.9.20.24.25.26.27.29.30.33.37.40.42.43
+thuê: 7
+thời hạn: 9.26
+thủ tục: 10.14.20.32
+trường hợp: 4.5.6.11
+tài sản: 6.7.43
+vật nuôi: 21
+điều kiện: 1.7.8.12.42
+đền bù: 4.8.15.19.21
+có bao nhiêu: 0
+hành vi: 25
+nghiêm cấm: 25
+thẩm quyền: 35.39
+cơ quan: 0.11.23.24.25.35.39
+mua đất: 44
+mua nhà: 45

@@ -1,0 +1,37 @@
+0: cưỡng chế.tịch thu.bắt.bắt buộc
+1: giấy chứng nhận.chứng từ.giấy tờ chứng nhận.chứng nhận
+2: loại đất.các loại đất.phân loại đất.từng loại đất
+3: mục đích sử dụng đất
+4: nhà ở.nhà dân.nhà
+5: nằm trong quy hoạch.dính quy hoạch
+6: quyền sở hữu nhà ở.quyền sở hữu nhà
+7: quyền sử dụng đất.quyền sở hữu đất.quyền dùng đất
+8: thu hồi đất.lấy lại đất.thu hồi quyền sử dụng đất.trưng dụng đất
+9: thổ cư
+10: tách thửa.phân chia đất.phân chia mảnh đất.phân chia lô đất
+11: tái định cư
+12: vi phạm pháp luật.phạm luật.trái luật.trái phép.không có giấy phép
+13: đất nông nghiệp.đất cho nông nghiệp.đất trồng cây hàng năm.đất trồng cây lâu năm.đất rừng sản xuất.đất rừng phòng hộ.đất rừng đặc dụng.đất nuôi trồng thủy sản.đất làm muối
+14: đất phi nông nghiệp
+15: đất ở.đất thổ cư
+16: quyền thuê
+17: tài sản gắn liền với đất.tài sản trên đất
+18: kế hoạch sử dụng đất
+19: giấy phép xây dựng.giấy phép thi công. giấy phép khởi công
+20: không có giấy phép.trái phép.vi phạm pháp luật
+21: tranh chấp đất đai.tranh giành đất.tranh chấp đất.tranh giành đất đai.đất tranh chấp.tranh chấp
+22: xây nhà.làm nhà.xây dựng nhà.công trình kiên cố
+23: thời hạn sử dụng.thời gian sử dụng.thời hạn sở hữu.thời gian sở hữu
+24: hạn mức.giới hạn
+25: giao.trao.phân.phân chia.phân bổ
+26: quyền lợi.quyền.quyền hạn
+27: nghĩa vụ.trách nhiệm
+28: người sử dụng đất.cá nhân sử dụng đất.người sở hữu đất.người dùng đất.cá nhân dùng đất.cá nhân sở hữu đất
+29: quy hoạch sử dụng đất.quy hoạch đất
+30: đất quy hoạch.dính quy hoạch.đất trong quy hoạch
+31: đứng tên.cùng sở hữu.đồng sở hữu
+32: vợ chồng.vợ và chồng.chồng vợ.chồng và vợ
+33: từ đường.thờ cúng.họ.thờ họ
+34: thế chấp.đặt cọc
+35: của người khác.không thuộc chủ sở hữu.của cả nhân khác
+36: người nước ngoài.người ngoại quốc.không có quốc tịch

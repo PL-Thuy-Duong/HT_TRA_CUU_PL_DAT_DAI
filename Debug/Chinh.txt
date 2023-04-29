@@ -1,0 +1,37 @@
+cưỡng chế: 12.13.14.17
+giấy chứng nhận: 6.37
+loại đất: 0.41
+mục đích sử dụng đất: 9.20
+nhà ở: 5.6.7.8.19.22.39.45.50
+nằm trong quy hoạch: 
+quyền sở hữu nhà ở: 6
+quyền sử dụng đất: 6.27.37.40.42.43
+thu hồi đất: 8.10.11.12.13.14.16.17.35
+thổ cư: 18
+tách thửa: 1.2
+tái định cư: 15
+vi phạm pháp luật: 4.11.19
+đất nông nghiệp: 20.22.26.27.28.31.32.47.48
+đất phi nông nghiệp: 46.49.50
+đất ở: 18.26.31.32
+quyền thuê: 7
+tài sản gắn liền với đất: 7.43
+kế hoạch sử dụng đất: 3
+giấy phép xây dựng: 4.5.19
+không có giấy phép: 4.11.19
+tranh chấp đất đai: 23.36.39
+xây nhà: 22.50
+thời hạn sử dụng: 9.26
+hạn mức: 27.28
+giao: 0.28.38
+quyền lợi: 6.7.27.30.35.37.40.42.43
+nghĩa vụ: 29
+người sử dụng đất: 29.30
+quy hoạch sử dụng đất: 33
+đất quy hoạch: 34
+đứng tên: 37
+vợ chồng: 37
+từ đường: 38.39
+thế chấp: 41.42.43
+của người khác: 43
+người nước ngoài: 44.45

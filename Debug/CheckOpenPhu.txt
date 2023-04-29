@@ -1,0 +1,35 @@
+0: bán.buôn.chuyển nhượng.mua
+1: bồi thường.chi trả.đền bù
+2: cho phép.được phép.được quyền
+3: chuyển
+4: chuyển.chuyển nhượng quyền sử dụng.nhượng quyền.nhường quyền
+5: chuyển đổi.thay đổi
+6: cây trồng
+7: gắn liền.gắn.gắn với.gắn chung.dính liền.dính
+8: hồ sơ.giấy tờ.chứng từ
+9: hỗ trợ.chu cấp
+10: không được.không cho
+11: không giấy phép.trái phép
+12: kế hoạch.chiến lược.hoạch định
+13: là gì.là như thế nào.là thế nào.là sao.khái niệm.như thế nào là.thế nào là.khái niệm.định nghĩa.được hiểu là
+14: mua
+15: nguyên tắc.quy tắc.quy định
+16: phải xin.bắt buộc xin.nhất định xin
+17: quy hoạch
+18: quyết định.nghị quyết
+19: sử dụng.canh tác
+20: thuê.mướn
+21: thời hạn.kỳ hạn.kì hạn.thời gian
+22: thủ tục.các bước.trình tự.quy trình.quá trình
+23: trường hợp
+24: tài sản
+25: vật nuôi.thú nuôi
+26: điều kiện.điều khoản
+27: đền bù.bồi thường
+28: có bao nhiêu
+29: hành vi.hành động
+30: nghiêm cấm.cấm.cấm làm.luật cấm
+31: thẩm quyền.quyền lực.có quyền.nắm quyền.giữ quyền.đứng ra giải quyết
+32: cơ quan.bộ phận.đơn vị.ai
+33: mua đất.mua miếng đất.mua lô đất
+34: mua nhà.mua căn hộ.mua chung cư.mua biệt thự

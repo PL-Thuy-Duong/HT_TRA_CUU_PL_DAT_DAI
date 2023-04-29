@@ -1,0 +1,112 @@
+cưỡng chế: cưỡng chế
+tịch thu: cưỡng chế
+bắt: cưỡng chế
+bắt buộc: cưỡng chế
+giấy chứng nhận: giấy chứng nhận
+chứng từ: giấy chứng nhận
+giấy tờ chứng nhận: giấy chứng nhận
+chứng nhận: giấy chứng nhận
+loại đất: loại đất
+các loại đất: loại đất
+phân loại đất: loại đất
+từng loại đất: loại đất
+mục đích sử dụng đất: mục đích sử dụng đất
+nhà ở: nhà ở
+nhà dân: nhà ở
+nhà: nhà ở
+nằm trong quy hoạch: nằm trong quy hoạch
+dính quy hoạch: nằm trong quy hoạch.đất quy hoạch
+quyền sở hữu nhà ở: quyền sở hữu nhà ở
+quyền sở hữu nhà: quyền sở hữu nhà ở
+quyền sử dụng đất: quyền sử dụng đất
+quyền sở hữu đất: quyền sử dụng đất
+quyền dùng đất: quyền sử dụng đất
+thu hồi đất: thu hồi đất
+lấy lại đất: thu hồi đất
+thu hồi quyền sử dụng đất: thu hồi đất
+trưng dụng đất: thu hồi đất
+thổ cư: thổ cư
+tách thửa: tách thửa
+phân chia đất: tách thửa
+phân chia mảnh đất: tách thửa
+phân chia lô đất: tách thửa
+tái định cư: tái định cư
+vi phạm pháp luật: vi phạm pháp luật.không có giấy phép
+phạm luật: vi phạm pháp luật
+trái luật: vi phạm pháp luật
+trái phép: vi phạm pháp luật.không có giấy phép
+không có giấy phép: vi phạm pháp luật.không có giấy phép
+đất nông nghiệp: đất nông nghiệp
+đất cho nông nghiệp: đất nông nghiệp
+đất trồng cây hàng năm: đất nông nghiệp
+đất trồng cây lâu năm: đất nông nghiệp
+đất rừng sản xuất: đất nông nghiệp
+đất rừng phòng hộ: đất nông nghiệp
+đất rừng đặc dụng: đất nông nghiệp
+đất nuôi trồng thủy sản: đất nông nghiệp
+đất làm muối: đất nông nghiệp
+đất phi nông nghiệp: đất phi nông nghiệp
+đất ở: đất ở
+đất thổ cư: đất ở
+quyền thuê: quyền thuê
+tài sản gắn liền với đất: tài sản gắn liền với đất
+tài sản trên đất: tài sản gắn liền với đất
+kế hoạch sử dụng đất: kế hoạch sử dụng đất
+giấy phép xây dựng: giấy phép xây dựng
+giấy phép thi công: giấy phép xây dựng
+ giấy phép khởi công: giấy phép xây dựng
+tranh chấp đất đai: tranh chấp đất đai
+tranh giành đất: tranh chấp đất đai
+tranh chấp đất: tranh chấp đất đai
+tranh giành đất đai: tranh chấp đất đai
+đất tranh chấp: tranh chấp đất đai
+tranh chấp: tranh chấp đất đai
+xây nhà: xây nhà
+làm nhà: xây nhà
+xây dựng nhà: xây nhà
+công trình kiên cố: xây nhà
+thời hạn sử dụng: thời hạn sử dụng
+thời gian sử dụng: thời hạn sử dụng
+thời hạn sở hữu: thời hạn sử dụng
+thời gian sở hữu: thời hạn sử dụng
+hạn mức: hạn mức
+giới hạn: hạn mức
+giao: giao
+trao: giao
+phân: giao
+phân chia: giao
+phân bổ: giao
+quyền lợi: quyền lợi
+quyền: quyền lợi
+quyền hạn: quyền lợi
+nghĩa vụ: nghĩa vụ
+trách nhiệm: nghĩa vụ
+người sử dụng đất: người sử dụng đất
+cá nhân sử dụng đất: người sử dụng đất
+người sở hữu đất: người sử dụng đất
+người dùng đất: người sử dụng đất
+cá nhân dùng đất: người sử dụng đất
+cá nhân sở hữu đất: người sử dụng đất
+quy hoạch sử dụng đất: quy hoạch sử dụng đất
+quy hoạch đất: quy hoạch sử dụng đất
+đất quy hoạch: đất quy hoạch
+đất trong quy hoạch: đất quy hoạch
+đứng tên: đứng tên
+cùng sở hữu: đứng tên
+đồng sở hữu: đứng tên
+vợ chồng: vợ chồng
+vợ và chồng: vợ chồng
+chồng vợ: vợ chồng
+chồng và vợ: vợ chồng
+từ đường: từ đường
+thờ cúng: từ đường
+họ: từ đường
+thờ họ: từ đường
+thế chấp: thế chấp
+đặt cọc: thế chấp
+của người khác: của người khác
+không thuộc chủ sở hữu: của người khác
+của cả nhân khác: của người khác
+người nước ngoài: người nước ngoài
+người ngoại quốc: người nước ngoài
+không có quốc tịch: người nước ngoài
