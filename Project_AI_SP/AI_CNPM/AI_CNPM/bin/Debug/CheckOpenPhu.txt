@@ -1,0 +1,31 @@
+0: buôn
+1: chi trả.đền bù
+2: được phép.được quyền
+3: 
+4: chuyển nhượng quyền sử dụng.nhượng quyền.nhường quyền
+5: chuyển đổi
+6: 
+7: gắn với.gắn chung
+8: giấy tờ.chứng từ
+9: chu cấp
+10: không cho
+11: trái phép
+12: chiến lược.hoạch định
+13: là như thế nào.là thế nào.là sao.khái niệm.như thế nào là.thế nào là.khái niệm.định nghĩa
+14: mua
+15: quy tắc.quy định
+16: bắt buộc xin.nhất định xin
+17: 
+18: nghị quyết
+19: canh tác
+20: mướn
+21: kỳ hạn.kì hạn
+22: các bước.trình tự
+23: 
+24: 
+25: thú nuôi
+26: điều khoản
+27: 
+28: 
+29: hành động
+30: cấm,cấm làm
